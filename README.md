@@ -1,3 +1,4 @@
+<!--
 ```
             888 888 888'Y88 888     888       e88 88e     888'Y88 888 88e  888 888'Y88 Y88b Y88 888 88e   888   
             888 888 888 ,'Y 888     888      d888 888b    888 ,'Y 888 888D 888 888 ,'Y  Y88b Y8 888 888b  888   
@@ -5,8 +6,11 @@
             888 888 888 ",d 888  ,d 888  ,d  Y888 888P    888 "   888 b,   888 888 ",d 8b Y88b  888 888P   e    
             888 888 888,d88 888,d88 888,d88   "88 88"     888     888 88b, 888 888,d88 88b Y88b 888 88"   "8"   
 ```
+-->
+<div align="center"> <img src="https://github.com/Am1r999/Am1r999/blob/main/hellofriend.gif" align="center" style="width: 100%" /> </div>
 
 ___
+
 - Name is Amir!
 - Interested in FOSS, Linux, Cryptography, and creating new stuff.  
 - I’m currently learning computer science engineering.
