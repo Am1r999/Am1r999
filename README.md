@@ -34,7 +34,8 @@ ___
 
 ___
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Am1r999&show_icons=true&hide_border=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Am1r999&hide_border=true&theme=radical"/>
-
+___
+ <script src="https://tryhackme.com/badge/905547"></script>
 <!---
 Am1r999/Am1r999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
