@@ -17,7 +17,7 @@ ___
 - Name is Amir.
 - Interested in FOSS, Linux, Cryptography, and creating new stuff.  
 - I’m currently learning computer science engineering.
-- Mementor mori
+- Memento mori
 
 ___
 <p align="center">
