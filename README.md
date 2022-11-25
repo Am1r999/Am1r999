@@ -40,13 +40,10 @@ ___
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Am1r999&show_icons=true&hide_border=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Am1r999&hide_border=true&theme=radical"/>
 ___
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/Am1r999/count.svg" />
+  <br> The 999th visitor will be awarded a banana!
 </p>
-<p align="center">
-  <br>
-    The 999 visitor will be awarded a banana!
-</p>
+
             
 
 
