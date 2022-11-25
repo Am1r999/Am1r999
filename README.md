@@ -5,15 +5,19 @@
             8888888 888C8   888     888     C8888 8888D   888C8   888 88"  888 888C8   b Y88b Y 888 8888D "8"   
             888 888 888 ",d 888  ,d 888  ,d  Y888 888P    888 "   888 b,   888 888 ",d 8b Y88b  888 888P   e    
             888 888 888,d88 888,d88 888,d88   "88 88"     888     888 88b, 888 888,d88 88b Y88b 888 88"   "8"   
+            
+            ?
 ```
 -->
+___
 <div align="center"> <img src="https://github.com/Am1r999/Am1r999/blob/main/hellofriend.gif" align="center" style="width: 100%" /> </div>
 
 ___
 
-- Name is Amir!
+- Name is Amir.
 - Interested in FOSS, Linux, Cryptography, and creating new stuff.  
 - I’m currently learning computer science engineering.
+- Mementor mori
 
 ___
 <p align="center">
@@ -35,7 +39,12 @@ ___
 ___
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Am1r999&show_icons=true&hide_border=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Am1r999&hide_border=true&theme=radical"/>
 ___
+
+
+
+
+
 <!---
-Am1r999/Am1r999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Am1r999/Am1r999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your fucking GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
