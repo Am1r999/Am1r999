@@ -31,7 +31,7 @@ ___
     <img src="https://img.shields.io/badge/TryHackMe-%231DA1F2.svg?&style=for-the-badge&logo=TryHackMe&logoColor=white&color=071A2C" alt="TryHackMe"/>
   </a>
     <a href="https://archlinux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Arch Linux-%231DA1F2.svg?&style=for-the-badge&logo=Arch Linux&logoColor=white&color=071A2C" alt="Arch Linux"/>
+    <img src="https://img.shields.io/badge/Arch_Linux-%231DA1F2.svg?&style=for-the-badge&logo=archlinux&logoColor=white&color=071A2C" alt="Arch Linux"/>
   </a>
 </p>
 
@@ -40,7 +40,7 @@ ___
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Am1r999&show_icons=true&hide_border=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Am1r999&hide_border=true&theme=radical"/>
 ___
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/Am1r999/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Am1r999&color=071A2C" alt="Am1r999" />
   <br> The 999th visitor will be awarded a banana!
 </p>
 
