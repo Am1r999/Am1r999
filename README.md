@@ -40,7 +40,7 @@ ___
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Am1r999&show_icons=true&hide_border=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Am1r999&hide_border=true&theme=radical"/>
 ___
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Am1r999&color=071A2C" alt="Am1r999" />
+  <a href="https://hits.sh/github.com/Am1r999/Am1r999/"><img src="https://hits.sh/github.com/Am1r999/Am1r999.svg?style=for-the-badge&label=VISITORS&color=071a2c&labelColor=555555" alt="Visitors"/></a>
   <br> The 999th visitor will be awarded a banana!
 </p>
 
